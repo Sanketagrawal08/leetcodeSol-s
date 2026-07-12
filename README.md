@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,8 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
