@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1971-find-if-path-exists-in-graph) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
