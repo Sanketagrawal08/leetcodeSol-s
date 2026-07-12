@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
