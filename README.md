@@ -43,4 +43,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
