@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
+| [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
