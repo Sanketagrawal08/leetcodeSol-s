@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
