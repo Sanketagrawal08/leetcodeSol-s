@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0424-longest-repeating-character-replacement) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Merge Sort
 |  |
 | ------- |
@@ -75,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 <!---LeetCode Topics End-->
