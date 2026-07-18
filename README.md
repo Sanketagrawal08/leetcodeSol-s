@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0018-4sum) |
+| [0086-partition-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
