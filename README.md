@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0198-house-robber) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Hash Table
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
