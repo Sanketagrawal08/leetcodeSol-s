@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0138-copy-list-with-random-pointer) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0198-house-robber) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanketagrawal08/leetcodeSol-s/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
